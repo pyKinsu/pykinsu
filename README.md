@@ -26,6 +26,7 @@
 </p>
 
 ---
+## ɪ ᴜꜱᴇ ᴀɴᴅ ᴇᴅɪᴛ <img src="https://emojis.slackmojis.com/emojis/images/1643509121/47503/notamused2.png?1643509121" widht="22">
 
 <p align="center">
   <img alt="Render" src="https://img.shields.io/badge/-Render-430098?style=for-the-badge&logo=render&logoColor=white" />
