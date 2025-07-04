@@ -60,8 +60,8 @@
 ## ᴜꜱᴇᴅ ʟᴀɴɢᴜᴀɢᴇꜱ <img src="https://emojis.slackmojis.com/emojis/images/1643514532/5264/coding.gif?1643514532" width="22">
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyKinsu&layout=compact&theme=tokyonight" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyKinsu&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
