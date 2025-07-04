@@ -61,7 +61,7 @@
 
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyKinsu&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pykinsu&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
