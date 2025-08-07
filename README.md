@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <img align="center" src="https://profile-counter.glitch.me/pykinsu/count.svg" />
+<img src="https://visitor-count-b8lb.vercel.app/api/Github_Username?hexColor=ee4488" />
 </p>
 
 ---
