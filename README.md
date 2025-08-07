@@ -68,8 +68,9 @@
 
 ## ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ <img src="https://emojis.slackmojis.com/emojis/images/1692206783/67533/extreme-teamwork.gif?1692206783" width="22">
 
-
- [<img src="https://github-readme-streak-stats.herokuapp.com/?user=pyKinsu&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="100%">](https://github.com/pyKinsu)
+<p>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=pyKinsu&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="100%">
+</p>
 
 ---
 
