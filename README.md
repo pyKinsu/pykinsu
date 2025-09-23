@@ -29,7 +29,7 @@
 ## ɪ ᴜꜱᴇ ᴀɴᴅ ᴇᴅɪᴛ <img src="https://emojis.slackmojis.com/emojis/images/1643509121/47503/notamused2.png?1643509121" width="22">
 
 <p align="center">
-  <img alt="Render" src="https://img.shields.io/badge/-Render-430098?style=for-the-badge&logo=render&logoColor=white" />
+  <img alt="Render" src="https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="ChatGPT" src="https://img.shields.io/badge/-ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
   <img alt="Brave Browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=for-the-badge&logo=brave&logoColor=white" />
