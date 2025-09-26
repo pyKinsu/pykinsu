@@ -73,10 +73,10 @@
 
 ---
 
-### 📈 ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ
+### ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ <img src="https://img.icons8.com/?size=100&id=kHciLPIsN0Ra&format=png&color=000000" width="22">
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <a href="https://github.com/pykinsu">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=pykinsu&theme=high-contrast&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="PyKinsu's github activity graph" />
   </a>
 </p>
@@ -86,7 +86,7 @@
 ### 🏆 ɢɪᴛʜᴜʙ ᴛʀᴏᴘʜɪᴇs
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/pykinsu">
     <img src="https://github-profile-trophy.vercel.app/?username=pykinsu&theme=onedark&no-bg=true&no-frame=true" alt="pykinsu" />
   </a>
 </p>
