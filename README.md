@@ -73,7 +73,7 @@
 
 ---
 
-### ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ <img src="https://img.icons8.com/?size=100&id=kHciLPIsN0Ra&format=png&color=000000" width="22">
+### ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ 📊
 
 <p align="center">
   <a href="https://github.com/pykinsu">
@@ -83,7 +83,7 @@
 
 ---
 
-### 🏆 ɢɪᴛʜᴜʙ ᴛʀᴏᴘʜɪᴇs
+### ɢɪᴛʜᴜʙ ᴛʀᴏᴘʜɪᴇs 🏆
 
 <p align="center">
   <a href="https://github.com/pykinsu">
