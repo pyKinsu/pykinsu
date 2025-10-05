@@ -3,7 +3,7 @@
 <!-- Typing Header -->
 <p align="center">
   <a href="https://github.com/pykinsu">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=ffffff&width=600&lines=Namaste!%2C+I'M+Kinsu+👋;From+Patna%2C+India+🇮🇳;Bot+%2F+Web+Developer+🛠️;Learning+Python+🐍" alt="@pykinsu typing" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=ffffff&width=600&lines=Namaste!%2C+I'M+Kinsu+👋;From+Patna%2C+Bihar+%2CIndia🇮🇳;Bot+%2F+Web+Developer+🛠️" alt="@pykinsu typing" />
   </a>
 </p>
 
