@@ -68,7 +68,7 @@
 ## ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ <img src="https://emojis.slackmojis.com/emojis/images/1692206783/67533/extreme-teamwork.gif?1692206783" width="22">
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pykinsu&theme=dark&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="pykinsu" />
+  <img src="https://github-readme-streak-stats-five-vert.vercel.app/?user=Pykinsu&theme=dark&date_format=j%20M%5B%20Y%5D&exclude_days=Mon" alt="pykinsu" />
 </p>
 
 ---
