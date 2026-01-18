@@ -1,6 +1,6 @@
 <!-- GitHub Profile README for @pykinsu -->
 
-<!-- Cool Animated Quote (BIGGER & BALANCED) -->
+<!-- Animated Quote-->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
@@ -10,27 +10,70 @@
   </a>
 </p>
 
+<!-- Portfolio & Location Badges -->
+<!-- Learning -->
+<p align="center" style="margin-top:12px;">
+  <img 
+    alt="Currently Learning" 
+    src="https://img.shields.io/badge/Currently%20Learning-JavaScript%20|%20Python-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" 
+  />
+</p>
+
+<p align="center" style="margin-top:12px;">
+  <a href="https://kinsu.vercel.app" target="_blank">
+    <img 
+      alt="Portfolio" 
+      src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" 
+    />
+  </a>
+  <img 
+    alt="Location"
+    src="https://img.shields.io/badge/BR%20India-0A0A0A?style=for-the-badge&logo=googlemaps&logoColor=white"
+  />
+</p>
+
+
+
+<!-- Contact Icons -->
+<p align="center" style="margin-top:16px;">
+  <a href="https://github.com/pykinsu">
+    <img src="https://skillicons.dev/icons?i=github"
+         width="32"
+         style="border-radius:50%; margin:0 10px;" />
+  </a>
+  <a href="mailto:pykinsu@outlook.com">
+    <img src="https://skillicons.dev/icons?i=gmail"
+         width="32"
+         style="border-radius:50%; margin:0 10px;" />
+  </a>
+  <a href="https://twitter.com/pykinsu">
+    <img src="https://skillicons.dev/icons?i=twitter"
+         width="32"
+         style="border-radius:50%; margin:0 10px;" />
+  </a>
+</p>
+
 ---
 
 
 ## ɪ ᴜꜱᴇ ᴀɴᴅ ᴇᴅɪᴛ <img src="https://emojis.slackmojis.com/emojis/images/1643509121/47503/notamused2.png?1643509121" width="22">
 
 <p align="center">
-  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img alt="Brave Browser" src="https://img.shields.io/badge/Brave-000000?style=for-the-badge&logo=brave&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 ---
