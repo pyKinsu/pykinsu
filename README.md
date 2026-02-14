@@ -20,7 +20,7 @@
 </p>
 
 <p align="center" style="margin-top:12px;">
-  <a href="https://kinsu.vercel.app" target="_blank">
+  <a href="http://kinsurajput.vercel.app/" target="_blank">
     <img 
       alt="Portfolio" 
       src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" 
