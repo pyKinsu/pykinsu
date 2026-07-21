@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=180&duration=3500&pause=1200&center=true&vCenter=true&width=1400&height=220&color=ffffff&repeat=false&lines=Hi!%2C+I'm+Kinsu+" 
+      src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=180&duration=3500&pause=1200&center=true&vCenter=true&width=1400&height=220&color=58A6FF&repeat=false&lines=Hi!%2C+I'm+Kinsu+" 
       alt="Typing Quote" 
     />
   </a>
@@ -96,8 +96,6 @@
   <img src="https://pukinsu-github-stats.vercel.app/api/top-langs?username=pykinsu&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff" alt="pykinsu" />
 </p>
 
----
-
 ## ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ <img src="https://emojis.slackmojis.com/emojis/images/1692206783/67533/extreme-teamwork.gif?1692206783" width="22">
 
 <p align="center">
@@ -110,7 +108,7 @@
 
 <p align="center">
   <a href="https://github.com/pykinsu">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pykinsu&theme=high-contrast&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="PyKinsu's github activity graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pykinsu&theme=high-contrast&bg_color=000000&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=true" alt="PyKinsu's github activity graph" />
   </a>
 </p>
 
@@ -119,7 +117,7 @@
 ### ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs <img src="https://emojis.slackmojis.com/emojis/images/1643516207/22334/look.gif?1643516207" width="22">
 
 <p align="center">
-  <img src="https://visitor-count-b8lb.vercel.app/api/pykinsu?hexColor=ffffff" />
+  <img src="https://visitor-count-b8lb.vercel.app/api/pykinsu?hexColor=58A6FF" />
 </p>
 
 ---
